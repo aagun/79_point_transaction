@@ -1,1 +1,1 @@
-docker-compose down --volume --remove-orphans
+docker-compose down --volumes --remove-orphans
